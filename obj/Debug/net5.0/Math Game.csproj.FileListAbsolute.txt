@@ -1,0 +1,16 @@
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/bin/Debug/net5.0/Math Game
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/bin/Debug/net5.0/Math Game.deps.json
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/bin/Debug/net5.0/Math Game.runtimeconfig.json
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/bin/Debug/net5.0/Math Game.runtimeconfig.dev.json
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/bin/Debug/net5.0/Math Game.dll
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/bin/Debug/net5.0/Math Game.pdb
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.csproj.AssemblyReference.cache
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.AssemblyInfoInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.AssemblyInfo.cs
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.csproj.CoreCompileInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.dll
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/refint/Math Game.dll
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.pdb
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/Math Game.genruntimeconfig.cache
+/Users/mariuswaseige/Downloads/C#/Projets/Math Game/obj/Debug/net5.0/ref/Math Game.dll

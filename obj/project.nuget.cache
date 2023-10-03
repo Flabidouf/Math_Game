@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAJBI7dBkq6Oue1x2iG09Z1bKhqKRa+eyEOLSk9xFkVbdoIPUVpeSy+1yF0jCpAe3FR+5cYxwQnthTdRfmLRCg==",
+  "success": true,
+  "projectFilePath": "/Users/mariuswaseige/Downloads/C#/Projets/Math Game/Math Game.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariuswaseige/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/mariuswaseige/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/mariuswaseige/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
